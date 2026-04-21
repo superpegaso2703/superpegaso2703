@@ -29,7 +29,7 @@
 
 <h3 align="left">Conferences & Talks:</h3>
 <ul align="left">
-  <li>🎤 Speaker at <a href="https://reg.rootedcon.com/cfp/speaker/1163" target="_blank">RootedCon 2026</a></li>
+  <li>🎤 Speaker at <a href="https://reg.rootedcon.com/cfp/speaker/1163" target="_blank">RootedCON 2026</a></li>
 </ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=superpegaso2703&show_icons=true&locale=en&layout=compact" alt="superpegaso2703" /></p>
