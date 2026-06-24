@@ -26,6 +26,7 @@
 <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-49831" target="_blank">CVE-2026-49831</a></li>
 <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-49832" target="_blank">CVE-2026-49832</a></li>
 <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-49833" target="_blank">CVE-2026-49833</a></li>
+<li><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-57301" target="_blank">CVE-2026-57301</a></li>
 </ul>
 
 <h3 align="left">Awards & Achievements:</h3>
