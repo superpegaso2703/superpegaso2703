@@ -38,3 +38,10 @@
 <ul align="left">
   <li>🎤 Speaker at <a href="https://reg.rootedcon.com/cfp/speaker/1163" target="_blank">RootedCON 2026</a></li>
 </ul>
+
+<h3 align="left">Certifications: </h3>
+<ul align="left">
+  <li><a href="https://academy.hackthebox.com/achievement/badge/c2980acf-9e60-11ee-bfb6-bea50ffe6cb4" target="_blank">HTB Certified Penetration Testing Specialist</a></li>
+  <li><a href="https://academy.hackthebox.com/achievement/badge/75fc82cd-2fd0-11ef-b18d-bea50ffe6cb4" target="_blank">HTB Certified Web Exploitation Specialist</a></li>
+  <li><a href="https://academy.hackthebox.com/achievement/badge/75512014-97c1-11f1-82d1-bea50ffe6cb4" target="_blank">HTB Certified Web Exploitation Expert</a></li>
+</ul>
